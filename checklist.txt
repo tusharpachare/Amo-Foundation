@@ -1,0 +1,4 @@
+1. Newsletter With Email integression. --- done 
+2. Order Request with Email Integression  --- done 
+3. Order placement with email---done
+4. complete Integresssion ---done
